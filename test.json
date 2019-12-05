@@ -3,7 +3,7 @@
   "NoAdsSaved": false,
   "promocode": false,
   "cleancode": true,
-  "login": true,
+  "login": false,
   "cache": false,
   "onlyapk": false,
   "update": true,
